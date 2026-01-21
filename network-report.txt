@@ -1,0 +1,14 @@
+network check report - Wed Jan 21 11:27:03 UTC 2026
+Internet Connectivity : FAILED
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+LISTEN 0      128          0.0.0.0:22        0.0.0.0:*          
+LISTEN 0      50                 *:8080            *:*          
+LISTEN 0      128             [::]:22           [::]:*          
+LISTEN 0      511                *:80              *:*          
+network check report - Wed Jan 21 11:32:03 UTC 2026
+Internet Connectivity: OK
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+LISTEN 0      128          0.0.0.0:22        0.0.0.0:*          
+LISTEN 0      50                 *:8080            *:*          
+LISTEN 0      128             [::]:22           [::]:*          
+LISTEN 0      511                *:80              *:*          
